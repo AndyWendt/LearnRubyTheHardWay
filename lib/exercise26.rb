@@ -92,4 +92,3 @@ Ex26.print_last_word(sorted_words)
 sorted_words = Ex26.sort_sentence(sentence)
 Ex26.print_first_and_last(sentence)
 Ex26.print_first_and_last_sorted(sentence)
-
